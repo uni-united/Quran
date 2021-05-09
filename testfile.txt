@@ -1,0 +1,14 @@
+{
+  "list":[
+    "item1":"item1val",
+    "item2":"item2val",
+    "list1":[
+      {
+        "listitem1":"listitemval1"
+      },
+      {
+        "listitem2":"listitemval2"
+      }
+    ]
+  ]
+}
