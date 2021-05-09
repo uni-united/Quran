@@ -5,10 +5,10 @@
     "item2":"item2val",
     "list1":[
       {
-        "listitem1":"listitemval1"
+        "listitem":"listitemval1"
       },
       {
-        "listitem2":"listitemval2"
+        "listitem":"listitemval2"
       }
     ]
   },
@@ -17,10 +17,10 @@
     "item2":"item2val",
     "list1":[
       {
-        "listitem1":"listitemval1"
+        "listitem":"listitemval1"
       },
       {
-        "listitem2":"listitemval2"
+        "listitem":"listitemval2"
       }
     ]
   }
